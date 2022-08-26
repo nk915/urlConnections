@@ -23,8 +23,6 @@ def url_conn(_url_list):
 	driver.set_window_size(1920,1280)
 
 	# 페이지 이동(열고 싶은 URL)
-  
-
 	for _url in _url_list:
 		#print("conn: " + _url)
 		driver.get(_url)
