@@ -7,5 +7,5 @@
 
 
 ## 실행 방법
-1. url_list.txt : url 정보 등록
-2. python url_conn.py 실행
+1. UrlList.txt : url 정보 등록
+2. python UrlConnections.py 실행
